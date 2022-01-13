@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ntjoel19 (Jean Joel NTEPP)
-- 👀 I’m interested in ionic dev
+- 👀 I’m interested in full stack JS dev
 - 🌱 I’m currently working on personnale projects
 - 💞️ I’m looking to collaborate on others projects
 - 📫 How to reach me on ntjoel19@gmail.com.
